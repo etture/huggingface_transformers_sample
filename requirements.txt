@@ -6,7 +6,7 @@ future==0.18.2
 idna==2.9
 joblib==0.15.1
 numpy==1.18.4
-protobuf==3.12.1
+protobuf==3.15.0
 regex==2020.5.14
 requests==2.23.0
 sacremoses==0.0.43
